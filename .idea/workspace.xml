@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b96edeeb-5b48-465c-b190-3cd6f6b11c04" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y1LeVqvIl6d8FYQ62V9tRfYxar" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.TestCircle">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Hệ các đối tượng hình học" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestCircle" />
+      <module name="Hệ các đối tượng hình học" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestCircle" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b96edeeb-5b48-465c-b190-3cd6f6b11c04" name="Default Changelist" comment="" />
+      <created>1582105248993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582105248993</updated>
+      <workItem from="1582105250694" duration="1546000" />
+      <workItem from="1582107077783" duration="2417000" />
+      <workItem from="1582132052502" duration="31000" />
+      <workItem from="1582132656330" duration="134000" />
+      <workItem from="1582133158034" duration="9000" />
+      <workItem from="1582133188530" duration="25000" />
+      <workItem from="1582133306213" duration="43000" />
+      <workItem from="1582133527282" duration="2150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="661" y="104" key="#com.intellij.ide.util.MemberChooser" timestamp="1582162629527">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="661" y="104" key="#com.intellij.ide.util.MemberChooser/0.23.1280.723@0.23.1280.723" timestamp="1582161322070" />
+    <state x="661" y="104" key="#com.intellij.ide.util.MemberChooser/0.23.1280.724@0.23.1280.724" timestamp="1582162629527" />
+    <state width="927" height="176" key="GridCell.Tab.0.bottom" timestamp="1582131456890">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="927" height="176" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1582131456890" />
+    <state width="927" height="176" key="GridCell.Tab.0.center" timestamp="1582131456890">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="927" height="176" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1582131456890" />
+    <state width="927" height="176" key="GridCell.Tab.0.left" timestamp="1582131456890">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="927" height="176" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1582131456890" />
+    <state width="927" height="176" key="GridCell.Tab.0.right" timestamp="1582131456890">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="927" height="176" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1582131456890" />
+  </component>
+</project>
